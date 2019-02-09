@@ -3,10 +3,11 @@ Implement the K-means and Agglemerative Clustering Algorithms.
 ## **Clustering on yelp.csv dataset**
 Usage: python clustering.py :=some=path=file name:csv K ac
 
-[!Alt text](./Latitude-Longitude-ac.jpg)
+![Latitude vs. Longitude with AC](./Latitude-Longitude-ac.jpg)
 
-[!Alt text](./Latitude-Longitude-k-means.jpg)
+![Latitude vs. Longitude with K-means](./Latitude-Longitude-k-means.jpg)
 
-[!Alt text](./logged-rc-checkin.jpg)
+![Review Count vs. Checkin](./reviewCount-checkins.jpg)
 
-[!Alt text](./reviewCount-checkins.jpg)
+![Review Count vs. Checkin logged](./logged-rc-checkin.jpg)
+
