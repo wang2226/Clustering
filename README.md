@@ -1,5 +1,6 @@
 # **Clustering Algorithm in Machine Learning**
 Implement the K-means and Agglemerative Clustering Algorithms.
+For Instruction, please read "cs373_hw2.pdf".
 ## **Clustering on yelp.csv dataset**
 Usage: python clustering.py :=some=path=file name:csv K ac
 
